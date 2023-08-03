@@ -1,0 +1,10 @@
+@import "reset.css";
+@import "css/whole.css";
+@import "css/first_screen_header.css";
+@import "css/first_screen_songtitle.css";
+@import "css/first_screen_btns.css";
+@import "css/first_screen_songlist.css";
+@import "css/first_screen_footer.css";
+@import "css/second_screen_header.css";
+@import "css/second_screen_body.css";
+@import "css/second_screen_footer.css";

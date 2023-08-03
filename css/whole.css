@@ -1,0 +1,27 @@
+body,html{
+    width: 750px;
+    height: 670px;
+    background-color: #f4f4f5;
+}
+body{
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.first-screen{
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+    height: 570px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+   
+}   
+
+.second-screen{
+    width: 270px;
+    height: 570px;
+    background-color: white;
+    border-radius: 20px;
+}

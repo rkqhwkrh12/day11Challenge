@@ -1,0 +1,11 @@
+.second-screen-header__Icons{
+    margin-top: 28px ;
+    display: flex;
+    justify-content: space-between;
+}
+.fa-arrow-left{
+    margin-left: 13px;
+}
+.fa-magnifying-glass{
+    margin-right: 13px;
+}
